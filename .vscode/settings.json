@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/367112fa-6270-48ec-ba8a-e2990ac6e3af/resourceGroups/APP/providers/Microsoft.Web/sites/EXAMUPSC",
+    "appService.deploySubpath": "."
+}
