@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'EXAMUPSC'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDD437031C1C4E3CA497D0E9FB3595D2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83D9601D60CE47E98F4EF804D48908CE }}
